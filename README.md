@@ -144,4 +144,31 @@
 
 ```
 
+## 项目截图
+
+![image](https://github.com/songhaoreact/vue-music/blob/master/static/1.png)
+
+![image](https://github.com/songhaoreact/vue-music/blob/master/static/2.png)
+
+![image](https://github.com/songhaoreact/vue-music/blob/master/static/3.png)
+
+![image](https://github.com/songhaoreact/vue-music/blob/master/static/4.png)
+
+![image](https://github.com/songhaoreact/vue-music/blob/master/static/5.png)
+
+
+### 安装与运行
+
+```
+本项目使用的是QQ音乐的接口
+
+cd vue-music
+
+npm install
+
+npm run dev //服务端运行 访问 http://localhost:8080
+
+npm run build 项目打包 
+
+
 
